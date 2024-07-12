@@ -2,4 +2,4 @@
 
 ## Visitors
 
-[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/thefolle.github.io/)
+[![Hits](https://hits.sh/thefolle.github.io.svg)](https://hits.sh/thefolle.github.io/)
